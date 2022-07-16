@@ -29,6 +29,8 @@ I'm a self-taught passionate FrontEnd developer from Nigeria
 - Sharing updates on <a href="https://www.twitter.com/in/ememcookey/">twitter</a> 💼
 
 ---
-| <a href="https://github.com/ecekpo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ecekpo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Emem's github stats" /></a> | <a href="https://github.com/ecekpo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecekpo&layout=compact&theme=buefy&hide_border=true" /></a> |
-----
+<a href="https://github.com/ecekpo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ecekpo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Emem's github stats" /></a> 
+---
+<a href="https://github.com/ecekpo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecekpo&layout=compact&theme=buefy&hide_border=true" /></a> |
+---
 **ecekpo/ecekpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
