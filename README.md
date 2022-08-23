@@ -7,7 +7,7 @@ I'm a self-taught passionate FrontEnd developer from Nigeria
 
 **About me**
 
-- 💼 FrontEnd Engineer at [DGEES Technologies](http://dgees.com/)
+- 💼 FrontEnd Engineer 
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
