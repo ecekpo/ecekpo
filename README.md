@@ -1,6 +1,6 @@
 # Hi !  My name is Emem Cookey.👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Great+to+have+you+here;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Great+to+have+you+here!;)](https://git.io/typing-svg)
 
 **About me**
 
