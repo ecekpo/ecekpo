@@ -1,13 +1,10 @@
-# Hi ! 👋 
+# Hi !  My name is Emem Cookey.👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Great+to+have+you+here+in+my+page;)](https://git.io/typing-svg)
-
----
-I'm a self-taught passionate FrontEnd developer from Nigeria
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Great+to+have+you+here;)](https://git.io/typing-svg)
 
 **About me**
--
-- 💼My name is Emem Cookey. I'm a Frontend developer who loves building ideas and projects 
+
+- 💼 I'm a self-taught passionate FrontEnd developer from Nigeria who loves building ideas and projects 
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
@@ -25,7 +22,7 @@ I'm a self-taught passionate FrontEnd developer from Nigeria
 
 ## Find me around the web 🌎: 
 - Tinkering with interactions on <a href="https://codepen.io/ememekpo"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/emem-ekpo-857135234">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/emem-ekpo">LinkedIn</a> 💼
 - Sharing updates on <a href="https://www.twitter.com/in/ememcookey/">twitter</a> 💼
 
 ---
