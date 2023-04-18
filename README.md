@@ -1,4 +1,4 @@
-### Hi there, I'm Emem Cookey 👋
+### Hi there, I'm Cookey 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Great+to+have+you+here!;)](https://git.io/typing-svg)
 
