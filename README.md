@@ -10,6 +10,7 @@
  - 🔭 I’m currently working on improving my tech skill in Web Development
  - 🌱 I’m looking to collaborate with other content creators
  - 👯 I’m looking to collaborate on open source projects
+ - 👯 I’m open for opportunities and challenges
  
  ### 🚂2023 Goals: 
  
