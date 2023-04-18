@@ -17,7 +17,7 @@
  - 🌱 Leverage my skills to make an impact on a global scale.
 
 ### Connect with me around the web 🌎
-- Reach me through my email: ememekpo@yahoo.com
+- Email: ememekpo@yahoo.com
 - Tinkering with interactions on <a href="https://codepen.io/ememekpo"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/emem-ekpo">LinkedIn</a> 💼
 - Sharing updates on <a href="https://www.twitter.com/in/ememcookey/">twitter</a> 💼
