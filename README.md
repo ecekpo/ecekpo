@@ -21,7 +21,7 @@
 - Tinkering with interactions on <a href="https://codepen.io/ememekpo"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/emem-ekpo">LinkedIn</a> 💼
 - Sharing updates on <a href="https://www.twitter.com/in/ememcookey/">twitter</a> 💼
-- Sharing publications on <a href="https://medium.com/@emem.ekpo75">twitter</a> 💼
+- Sharing publications on <a href="https://medium.com/@emem.ekpo75">medium</a> 💼
 
 
 ### Languages and Tools:
